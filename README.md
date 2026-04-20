@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjaney55&label=Profile%20views&color=0e75b6&style=flat" alt="anjaney55" /> </p>
 
-- 🔭 I’m currently working on **Movie Dataset Analysis**
+- 🔭 I’m currently working on **Stock Dataset Analysis**
 
 - 🌱 I’m currently learning **Advanced Power BI (DAX), Machine Learning basics, Statistics for Data Science**
 
